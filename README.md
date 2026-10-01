@@ -32,9 +32,9 @@ The calculator supports the following features:
 
 ## 📷 Project Screenshot
 
-Here is a screenshot of my calculator application:
+Here is a screenshot of my calculator link:
 
-Screenshot calculator.png
+https://github.com/Yuvashree20064/calculator_program/blob/main/Screenshot%20calculator.png
 
 ## 🎯 Learning Objectives
 
