@@ -34,7 +34,7 @@ The calculator supports the following features:
 
 Here is a screenshot of my calculator application:
 
-![Calculator Output](calculator_output.png)
+Screenshot calculator.png
 
 ## 🎯 Learning Objectives
 
